@@ -1,10 +1,7 @@
 import os
 import sys
 import gradio as gr
-try:
-    os.system("pip install -r requirements.txt")
-except Exception as e:
-    print(e)
+
 
 sys.path.insert(0, '.')
 

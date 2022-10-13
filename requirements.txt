@@ -4,5 +4,4 @@ torch==1.7.1
 scipy
 tqdm
 opencv-python
-spacy
 git+https://github.com/openai/CLIP.git

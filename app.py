@@ -2,7 +2,7 @@ import os
 import sys
 import gradio as gr
 
-
+os.makedirs("outputs", exist_ok=True) 
 sys.path.insert(0, '.')
 
 

@@ -1,0 +1,4 @@
+mmcv
+matplotlib==3.3.1
+torch==1.7.1
+git+https://github.com/openai/CLIP.git

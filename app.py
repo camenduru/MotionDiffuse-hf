@@ -66,4 +66,4 @@ demo = gr.Interface(
     title="MotionDiffuse: Text-Driven Human Motion Generation with Diffusion Model",
     description="This is an interactive demo for MotionDiffuse. For more information, feel free to visit our project page(https://mingyuan-zhang.github.io/projects/MotionDiffuse.html).")
 
-demo.launch(share=True)
+demo.launch()

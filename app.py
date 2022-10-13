@@ -56,9 +56,7 @@ demo = gr.Interface(
     inputs=["text", gr.Slider(20, 196, value=60)],
     examples=[
         ["the man throws a punch with each hand.", 58],
-        ["a person jogs clockwise in a circle.", 178],
         ["a person spins quickly and takes off running.", 29],
-        ["a person is walking slowly forward.", 142],
         ["a person quickly waves with their right hand", 46],
         ["a person performing a slight bow", 89],
     ],
